@@ -1,4 +1,4 @@
-![изображение](https://github.com/user-attachments/assets/c39ccffb-eee4-4fce-8b0e-7e56efd52c4d)# inf_lab_10.12
+# inf_lab_10.12
 
 
 Задание 1
@@ -37,7 +37,7 @@
 ![изображение](https://github.com/user-attachments/assets/7a125988-6cc8-411f-ac4f-b297cc5fa627)
 ![изображение](https://github.com/user-attachments/assets/1bc96190-1241-4974-b4bd-8f0563e37fd2)
 
-
+![изображение](https://github.com/user-attachments/assets/c39ccffb-eee4-4fce-8b0e-7e56efd52c4d)
 ![изображение](https://github.com/user-attachments/assets/87d24539-f54e-41e1-b7ab-919ce818d916)
 
 ![изображение](https://github.com/user-attachments/assets/052fbf62-6a14-401f-8024-b26cf8b225b4)
